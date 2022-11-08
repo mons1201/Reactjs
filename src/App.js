@@ -7,11 +7,11 @@ function App() {
   return (
   <>
     <Mohana/>
-    <Custom/> 
     <Priya/>
     <Normal/>
     <Normal1/>
-    <Normal2/>
+    <Normal2/>  
+    <Custom/>
 
   
     </>
