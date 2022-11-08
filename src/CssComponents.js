@@ -19,8 +19,8 @@ export const Custom=()=>
                 </tr>
             </thead>
             <tbody>
-                <th>Mohana</th>
-                <th>123456788</th>
+                <td>Mohana</td>
+                <td>123456788</td>
                 <td>EEE</td>
             </tbody>
 

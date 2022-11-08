@@ -1,18 +1,18 @@
 
+import { Mohana } from "./basic";
+import { Custom } from "./CssComponents";
 import Normal, { Normal1, Normal2 } from "./Mycss";
 
 function App() {
   return (
-    <>
-    {/* <Custom/>
+  <>
     <Mohana/>
-    <Priya/>  */}
+    <Custom/> 
     <Normal/>
     <Normal1/>
     <Normal2/>
 
-    
-
+  
     </>
     
   );
