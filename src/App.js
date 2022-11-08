@@ -1,8 +1,18 @@
 
+import Normal, { Normal1, Normal2 } from "./Mycss";
+
 function App() {
   return (
     <>
-    <h2>welcome to all members</h2>
+    {/* <Custom/>
+    <Mohana/>
+    <Priya/>  */}
+    <Normal/>
+    <Normal1/>
+    <Normal2/>
+
+    
+
     </>
     
   );
