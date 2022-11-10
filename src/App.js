@@ -4,14 +4,17 @@ import { Simple, Smile } from "./boot";
 import { Custom } from "./CssComponents";
 import Normal, { Normal1, Normal2 } from "./Mycss";
 import { Comethere } from "./Parameter";
+import { Hooksone } from "./UseStateHook";
 
 function App() {
   return (
   <>
 
-  <Smile/>
+  <Hooksone/>
 
-  <Comethere is="cat.jpg" wid="700px" high="500px" />
+  {/* <Smile/>
+
+  <Comethere is="cat.jpg" wid="700px" high="500px" /> */}
   
 
     {/* <Mohana/>
