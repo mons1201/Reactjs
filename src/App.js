@@ -5,12 +5,14 @@ import { Custom } from "./CssComponents";
 import Normal, { Normal1, Normal2 } from "./Mycss";
 import { Comethere } from "./Parameter";
 import { Hooksone } from "./UseStateHook";
+import { Justnumber } from "./UseStateNumRun";
 
 function App() {
   return (
   <>
+  <Justnumber/>
 
-  <Hooksone/>
+  {/* <Hooksone/> */}
 
   {/* <Smile/>
 
