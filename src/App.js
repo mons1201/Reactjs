@@ -4,13 +4,17 @@ import { Simple, Smile } from "./boot";
 import { Custom } from "./CssComponents";
 import Normal, { Normal1, Normal2 } from "./Mycss";
 import { Comethere } from "./Parameter";
+import { TernaryOperator } from "./TernaryOperator";
 import { Hooksone } from "./UseStateHook";
 import { Justnumber } from "./UseStateNumRun";
 
 function App() {
   return (
   <>
-  <Justnumber/>
+
+
+  <TernaryOperator/>
+  {/* <Justnumber/> */}
 
   {/* <Hooksone/> */}
 
