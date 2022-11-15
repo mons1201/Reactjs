@@ -1,6 +1,7 @@
 
 import Priya, { Mohana } from "./basic";
 import { Simple, Smile } from "./boot";
+import { ConnectData } from "./connectRecods";
 import { Custom } from "./CssComponents";
 import Normal, { Normal1, Normal2 } from "./Mycss";
 import { Comethere } from "./Parameter";
@@ -11,9 +12,10 @@ import { Justnumber } from "./UseStateNumRun";
 function App() {
   return (
   <>
+  <ConnectData/>
 
 
-  <TernaryOperator/>
+  {/* <TernaryOperator/> */}
   {/* <Justnumber/> */}
 
   {/* <Hooksone/> */}
